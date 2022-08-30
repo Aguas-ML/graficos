@@ -1,0 +1,93 @@
+# url is the full website URL
+# baseurl is the website's URL without the hostname
+url: "http://aguas-ml.github.io"
+baseurl: ""
+
+title: ÁguasML - Bem Comum em Mídia Livre
+description: Podemos trabalhar em conjunto, desenvolver nossas capacidades para viver em harmonia com as Águas e a Natureza. Colaboramos com o desenvolvimento de tecnologias livres e segurança digital em organizações, movimentos e grupos sociais no Brasil e América Latina, a fim de gerar processos de soberania e autonomia tecnológica.
+
+# List of links in the navigation bar
+navbar-links:
+  Sobre nós:
+    - Fazemos: ""
+    - Participe: "participe"
+    - Contato: "contato"
+    - Code of Conduct: "CODE_OF_CONDUCT"
+  News: "blog"
+  People: "pessoas"
+  Projects: "projetos"
+  Resources: "recursos"
+  Events: "eventos"
+  Funding: "colabore"
+  Forum: "forum"
+
+# Change all these values or delete the ones you don't want (these appear in the footer).
+# Important: you must keep the "name" parameter, everything else you can remove
+author:
+  name: "ÁguasML - Bem Comum em Mídia Livre"
+  email: "waterops@aguas.ml"
+  github: Aguas-ML/graficos
+  facebook: yourname  # eg. daattali
+  twitter: yourname   # eg. daattali
+
+# Select which links to show in the footer
+footer-links-active:
+  github: true
+  email: true
+  rss: false
+  facebook: false
+  twitter: false
+
+# Select which share links to show in posts
+share-links-active:
+  twitter: true
+  facebook: true
+  google: false
+  linkedin: true
+
+# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
+disqus: " "
+
+# Google Analytics ID
+google_analytics: " "
+
+# Output options (more information on Jekyll's site)
+timezone: "America/Sao_Paulo"
+markdown: kramdown
+highlighter: rouge
+permalink: /:year-:month-:day-:title/
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+kramdown:
+  input: GFM
+
+# Default YAML values (more information on Jekyll's site)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: false  # add comments to all blog posts
+      social-share: true # add social media sharing buttons to all blog posts
+  -
+    scope:
+      path: "" # all files
+    values:
+      layout: "page"
+      show-avatar: true
+
+# Exclude these files from production site
+exclude:
+  - LICENSE
+  - README.md
+  - .env
+  - renv.lock
+  - renv
+
+plugins: [jekyll-paginate]
+
+gems:
+  - jekyll-paginate
