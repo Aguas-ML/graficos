@@ -2,11 +2,11 @@
 title: Fale
 ---
 
-RECON is headed by an Executive Board. The right person to contact depends on
+ÀguasML is headed by an Executive Board. The right person to contact depends on
 the nature of your enquiry. Remember that if you just want to have a chat with
 members of our community, you can freely join our slack organisation: see our
 [forum](../forum) page for more information. Alternatively, for announcements,
-job ads etc. consider sending us an email at admin@repidemicsconsortium.org to be added to our mailing list. For everything else, see below.
+job ads etc. consider sending us an email at waterops@aguas.ml to be added to our mailing list. For everything else, see below.
 
 
 ## Specific enquiries
