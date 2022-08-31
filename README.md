@@ -2,7 +2,7 @@
 
 ## Welcome to the development page of the ÁguasML
 
-For the website itself, go to: <http://graficos.aguas.ml>
+For the website itself, go to: <https://graficos.aguas.ml>
 
 
 # Instructions for editing the website
@@ -11,8 +11,8 @@ For the website itself, go to: <http://graficos.aguas.ml>
 
 When the site launched, it contained the following pages, which can all be
 edited for content or deleted: [`index.md`](./index.md) (the landing page),
-[`people.md`](./pessoas.md), [`projetos.md`](./projetos.md),
-[`resources.md`](./recursos.md), [`contact.md`](./contato.md).
+[`pessoas.md`](./pessoas.md), [`projetos.md`](./projetos.md),
+[`recursos.md`](./recursos.md), [`contato.md`](./contato.md).
 
 ## Editing the navigation menus and the footer section
 
@@ -60,7 +60,7 @@ To add a new page at the URL `http://aguas-ml.github.io/example`:
         image". This path has to point to a local file in this repository, it
         cannot point to an image on the web
     -   You can see the
-        [`projetos`](https://raw.githubusercontent.com/reconhub/reconhub.github.io/2d944bfa887121b8e4f0d88df03a23e424bd1e79/projects.md)
+        [`projetos`](/projetos.md)
         page to see an example of using the `title` and `bigimg` parameters
 
 -   If you want to include a list of items on the page, where each item has an
@@ -69,7 +69,7 @@ To add a new page at the URL `http://aguas-ml.github.io/example`:
     `{% include list-circles.html items=page.mylist %}` in the page wherever you
     want to show the list. Any images will automatically be cropped to be
     circular, and there wil be a maximum of 4 items per row. See the
-    [`pessoas`](https://raw.githubusercontent.com/reconhub/reconhub.github.io/89dbea917f4223d768e51dfc6e825b974144dea4/people.md)
+    [`pessoas`](/pessoas.md)
     page for an example of how to include a nice list.
 
 ## How to add new blog posts (aka news)
