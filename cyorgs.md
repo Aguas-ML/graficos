@@ -3,7 +3,7 @@ title: As organizações Cibernéticas
 ---
 
 
-Uma CyOrg é uma organização associativa cibernética.
+CyOrg é uma organização associativa cibernética.
 
 
 ## Modelando características das CyOrgs
@@ -37,20 +37,3 @@ Em busca das capacidades das CyOrgs nós podemos integrar comportamentos e dinâ
 Mergulhando nas possibilidades dos Espaços Antropológicos, as CyOrgs dialogam constantemente sobre o Antropoceno e a necessária atuação criativa no Terceiro Setor global.
 
 Na produção em tecnologia da informação podemos encontrar um crescente conjunto de plataformas digitais capazes de criar produtos e serviços que atuem diretamente na mitigação de impactos das mudanças climáticas, consolidando iniciativas de Preservação de Patrimônio Histórico e Ambiental e muito mais.
-
-
-## Prioridade é do Código Aberto
-
-A ÁguasML tenta aderir aos valores e filosofia da Ética Hacker sempre que possível. A ética e as crenças dos hackers, conforme descrito por Levy, são:
-
-- *O acesso a computadores* - e qualquer coisa que possa ensinar algo sobre como o mundo funciona - deve ser ilimitado e total.
-- *Sempre ceda ao Imperativo Mãos à Obra!*
-- *Todas as informações* devem ser gratuitas
-- *Desconfie da autoridade* - promova a descentralização
-- *Os hackers devem ser julgados por seus trabalhos hackers*, não por critérios como diplomas, idade, raça, sexo ou posição
-- *Você pode criar arte* e beleza em um computador
-- *Computadores podem mudar* sua vida para melhor
-
-A ÁguasML nunca usará software proprietário, mas os usuários podem fazer isso se desejarem. Isso é algo que eles devem evitar, no entanto.
-
-Se você quiser ajudar a manter a ÁguasML funcionando, considere [**fazer uma doação**](/colabore)
