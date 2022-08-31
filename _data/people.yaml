@@ -4,20 +4,20 @@ executive_board:
   img: 
   website: https://pacha.men
   twitter: https://twitter.com/aguasml
-
-advisory_board:
 - name: Fititnt
   desc: Full stack developer
   img: 
   website: 
   twitter: https://twitter.com/fititnt
   github: http://github.com/fititnt
-
-people.members:
-
-- name: Rafael Ferraz
+  - name: Rafael Ferraz
   desc: Jornalista
   img: 
   website: https://jornalistainclusivo.com
   twitter: https://twitter.com/JorInclusivo
   github: http://github.com/JorInclusivo
+advisory_board:
+
+
+members:
+

@@ -6,20 +6,23 @@ default_profile_img: /img/people/anonymous.jpg
 
 ## Board operativo
 
-These people are currently heading ÁguasML.
+Estas pessoas mantém a plataforma cumprindo rotinas cotidianas da ÁguasML.
 
 {% include list-circles.html items=site.data.people.executive_board %}
 
+
 ## Fazem parte
 
-Members are people actively involved in, and contributing to, ÁguasML's activities. 
-See [this page](../participe) if you would like more information on membership.
+Pessoas e organizações que contribuem com esta plataforma.
+
+Para participar consulte nossas [opções de pertencimento](../participe)
 
 {% include list-circles.html items=site.data.people.members %}
 
-## Advisory board
 
-We are extremely lucky to have the following people supporting and guiding our efforts:
+## Rede de Apoio
+
+Muito felizes por contar com o apoio de:
 
 {% include list-circles.html items=site.data.people.advisory_board %}
 
