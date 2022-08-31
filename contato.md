@@ -35,7 +35,7 @@ Caso queira receber nossas campanhas, preencha com o seu melhor email:
 <br/><br/>
 <span><strong>O que esperar</strong>: Se você deseja retirar seu consentimento e deixar de nos ouvir, basta clicar no link de cancelamento de inscrição na parte inferior de cada e-mail que enviamos ou entrar em contato conosco em waterops@aguas.ml. Valorizamos e respeitamos seus dados pessoais e privacidade. Para ver nossa política de privacidade, visite nosso site. Ao enviar este formulário, você concorda que podemos processar suas informações de acordo com estes termos.</span>
 <br/><br/>
-	<p class="g-recaptcha" data-sitekey="6Lcs8vMgAAAAAIgW0ysutaGNPbATMTYf8ceRXVwE"></p><div style="display:none;">
+	<p class="g-recaptcha" data-sitekey="6LfEndIZAAAAADsmW_AbO6EwLZ_SfAM8w1M4BEYo"></p><div style="display:none;">
 	<label for="hp">HP</label><br/>
 	<input type="text" name="hp" id="hp"/>
 	</div>
