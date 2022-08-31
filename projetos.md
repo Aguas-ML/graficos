@@ -92,6 +92,12 @@ related-list:
     url: https://agenda.aguas.ml
     website: https://agenda.aguas.ml/
     img: /img/projects/green.png
+  - name: Conversando com as Águas
+    desc: Diálogos pelas águas e Direitos da Natureza
+    github: 
+    url: https://caminhodasaguas.org.br/vida
+    website: https://caminhodasaguas.org.br/vida
+    img: /img/projects/blue.png
 upcoming-list:
   - name: Porto Rural
     desc: Permacultural Office of Resilience Through the Open-Earth.
