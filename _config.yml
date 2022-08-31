@@ -13,12 +13,12 @@ navbar-links:
     - Participe: "participe"
     - Contato: "contato"
     - Code of Conduct: "CODE_OF_CONDUCT"
-  News: "blog"
-  People: "pessoas"
-  Projects: "projetos"
-  Resources: "recursos"
-  Events: "eventos"
-  Funding: "colabore"
+  Notas: "blog"
+  Pessoas: "pessoas"
+  Projetos: "projetos"
+  Recursos: "recursos"
+  Eventos: "eventos"
+  Colabore: "colabore"
   Forum: "forum"
 
 # Change all these values or delete the ones you don't want (these appear in the footer).
@@ -86,6 +86,7 @@ exclude:
   - .env
   - renv.lock
   - renv
+  - graficos.code-workspace
 
 plugins: [jekyll-paginate]
 
