@@ -1,32 +1,31 @@
 # url is the full website URL
 # baseurl is the website's URL without the hostname
-url: "http://aguas-ml.github.io"
+url: "https://aguas-ml.github.io"
 baseurl: ""
 
-title: ÁguasML - Bem Comum em Mídia Livre
+title: Águas Mídia Livre
 description: Podemos trabalhar em conjunto, desenvolver nossas capacidades para viver em harmonia com as Águas e a Natureza. Colaboramos com o desenvolvimento de tecnologias livres e segurança digital em organizações, movimentos e grupos sociais no Brasil e América Latina, a fim de gerar processos de soberania e autonomia tecnológica.
 
 # List of links in the navigation bar
 navbar-links:
   Sobre nós:
     - Cyorgs: "cyorgs"
-    - Participe: "participe"
     - Contato: "contato"
-    - Code of Conduct: "CODE_OF_CONDUCT"
-  Notas: "blog"
-  Pessoas: "pessoas"
-  Projetos: "projetos"
-  Recursos: "recursos"
-  Eventos: "eventos"
+    - Pessoas: "pessoas"
+  Notas:
+    - Eventos: "eventos"
+    - Notícias: "blog"
+    - Recursos: "recursos"
   Colabore: "colabore"
-  Forum: "forum"
+  Participe: "participe"
+  Projetos: "projetos"
 
 # Change all these values or delete the ones you don't want (these appear in the footer).
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: "ÁguasML - Bem Comum em Mídia Livre"
+  name: "ÁguasML Mídia Livre"
   email: "waterops@aguas.ml"
-  github: Aguas-ML/graficos
+  github: Aguas-ML
   facebook: yourname  # eg. daattali
   twitter: yourname   # eg. daattali
 
