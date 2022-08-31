@@ -8,11 +8,12 @@ aguasml-list:
     url: https://aguas.ml
     website: https://aguas.ml
     img: https://raw.githubusercontent.com/reconhub/distcrete/master/logo/logo.png
-  - name: Agenda das Águas
-    desc: Agenda de ações locais pelas águas e recursos hídricos.
+  - name: pad águasml
+    desc: Textos colaborativos com privacidade
     github: https://github.com/Aguas-ML
-    url: https://agenda.aguas.ml
-    img: /img/projects/purple.png
+    url: https://pad.aguas.ml
+    website: https://pad.aguas.ml
+    img: /img/projects/blue.png
   - name: Brasil ÁguasML
     desc: Informação essencial sobre as Águas, Bem Comum em Mídia Livre
     github: https://github.com/Aguas-ML
@@ -24,53 +25,65 @@ aguasml-list:
     url: https://chat.aguas.ml
     website: https://chat.aguas.ml
     img: https://raw.githubusercontent.com/reconhub/epicontacts/master/logo/logo.png
+  - name: redutor de links
+    desc: Redutor de links com estatísticas e personalização
+    github: https://github.com/Aguas-ML
+    url: https://nas.aguas.ml/
+    website: https://nas.aguas.ml/
+    img: /img/projects/orange.png
   - name: Ciclos Logs
     desc: Rotinas da plataforma ÁguasML.
     github: https://github.com/Aguas-ML
     url: https://ciclos.aguas.ml
     website: https://ciclos.aguas.ml
-    img: https://raw.githubusercontent.com/reconhub/epitrix/master/logo/logo.png
+    img: /img/projects/yellow.png
   - name: cursos grátis
     desc: Plataforma EAD Águas ML.
     github: https://github.com/Aguas-ML
-    url: https://brasil.aguas.ml
-    website: https://brasil.aguas.ml
-    img: https://raw.githubusercontent.com/reconhub/incidence/master/artwork/logo/logo.png
-  - name: aweek
-    desc: Convert dates to arbitrary week definitions including epiweek, isoweek, and more
+    url: https://cursos.aguas.ml
+    website: https://cursos.aguas.ml
+    img: /img/projects/orange.png
+  - name: dados águasml
+    desc: Compartilhando informações
     github: https://github.com/Aguas-ML
-    url: https://www.repidemicsconsortium.org/aweek
-    website: https://www.repidemicsconsortium.org/aweek
+    url: https://dados.aguas.ml
+    website: https://permacultura.download
     img: /img/projects/purple.png
-  - name: outbreaker2
-    desc: Modular framework for outbreak reconstruction.
+  - name: wiki águasml
+    desc: Wiki clássica das águas no Brasil
     github: https://github.com/Aguas-ML
-    url: https://www.repidemicsconsortium.org/outbreaker2/
-    website: https://www.repidemicsconsortium.org/outbreaker2/
-    img: https://raw.githubusercontent.com/reconhub/outbreaker2/master/logo/logo.png
-  - name: outbreaks
+    url: https://wiki.aguas.ml/
+    website: https://wiki.aguas.ml/
+    img: /img/projects/blue.png
+  - name: R águaLab
+    desc: Uma instalação compartilhada para testes e estudos em R
+    github: https://github.com/Aguas-ML
+    url: https://feliz.culturaporto.org.br
+    website: https://feliz.culturaporto.org.br
+    img: /img/projects/orange.png
+  - name: guias waterops
     desc: Collection of outbreak data.
     github: https://github.com/Aguas-ML
-    url: https://www.repidemicsconsortium.org/outbreaks
-    website: https://www.repidemicsconsortium.org/outbreaks
+    url: https://guias.aguas.ml
+    website: https://guias.aguas.ml
     img: https://github.com/reconhub/outbreaks/raw/master/logo/logo.png
-  - name: projections
-    desc: Projections of future incidence
+  - name: journal águasml
+    desc: Teste pré-lançamento de uma Revista Digital
     github: https://github.com/Aguas-ML
-    url: https://www.repidemicsconsortium.org/projections
-    website: https://www.repidemicsconsortium.org/projections
+    url: https://journal.aguas.ml/
+    website: https://journal.aguas.ml/
     img: /img/projects/purple.png
-  - name: RECON learn
-    desc: Open training platform for epidemics analysis
+  - name: leak águasml
+    desc: Plataforma segura de denúncias
     github: https://github.com/Aguas-ML
-    url: https://reconlearn.org
-    website: https://reconlearn.org
+    url: https://leak.aguas.ml/
+    website: https://leak.aguas.ml/
     img: /img/projects/orange.png
-  - name: epiflows
+  - name: livros águasml
     desc: Visualisation and analysis of passenger flows
     github: https://github.com/Aguas-ML
-    url: https://repidemicsconsortium.org/epiflows
-    website: https://repidemicsconsortium.org/epiflows
+    url: https://livros.aguas.ml/
+    website: https://livros.aguas.ml/
     img: /img/projects/purple.png
 related-list:
   - name: Porto Rural
@@ -78,11 +91,11 @@ related-list:
     github: https://github.com/portorural
     url: https://portorural.com.br
     img: /img/projects/yellow.png
-  - name: EpiJSON
-    desc: Implementation of a generic json format for case outbreak data.
-    github: https://github.com/Hackout2/EpiJSON
-    url: https://github.com/Hackout2/EpiJSON
-    img: /img/projects/orange.png
+  - name: Agenda das Águas
+    desc: Agenda de ações locais pelas águas e recursos hídricos.
+    github: https://github.com/Aguas-ML
+    url: https://agenda.aguas.ml
+    img: /img/projects/green.png
   - name: repijson
     desc: R package implementing EpiJSON format.
     github: https://github.com/Hackout2/repijson
@@ -229,7 +242,7 @@ Vivemos um **modelo nômade** de organizações emergentes, formadas de pessoas 
 
 <br>
 
-## WaterOps -DEVOps das Águas
+## WaterOps - DEVOps das Águas
 
 Estas organizações compõem um conjunto iterativo de modelos de fácil adoção *(frameworks)* capazes de dar suporte às capacidades adaptativas sociobiodiversas de aglomerados, com impacto positivo na diversidade e preservando o possível da disponibilidade genética planetária.
 
@@ -240,7 +253,7 @@ Estas organizações compõem um conjunto iterativo de modelos de fácil adoçã
 
 <br>
 
-## PORTO Rural
+## Ciência holística em ação
 
 Tudo o que podemos compartilhar sobre as ações da Porto Rural, com foco entorno da casa 421 da colônia da Fazenda Capoava, Porto Feliz/SP.
 
