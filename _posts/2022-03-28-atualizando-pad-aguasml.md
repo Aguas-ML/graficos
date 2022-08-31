@@ -2,7 +2,7 @@
 title: "Atualizando o PAD ÁguasML"
 subtitle: "Updates no Pad Águas"
 bigimg: 
-  - "´/img/posts/prints/print-padaguas.png" : "Print do Pad ÁguasML em 2022"
+  - "/img/posts/prints/print-padaguas.png" : "Print do Pad ÁguasML em 2022"
 ---
 
 Nosso pad foi atualizado para a sua última versão disponível hoje.
