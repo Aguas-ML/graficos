@@ -9,16 +9,16 @@ description: Podemos trabalhar em conjunto, desenvolver nossas capacidades para 
 # List of links in the navigation bar
 navbar-links:
   Sobre nós:
-    - Cyorgs: "cyorgs"
+    - Ideias: "cyorgs"
     - Contato: "contato"
     - Pessoas: "pessoas"
-  Notas:
-    - Eventos: "eventos"
-    - Notícias: "blog"
-    - Recursos: "recursos"
   Colabore: "colabore"
   Participe: "participe"
   Projetos: "projetos"
+  Registros:
+    - Eventos: "eventos"
+    - Notícias: "blog"
+    - Recursos: "recursos"
 
 # Change all these values or delete the ones you don't want (these appear in the footer).
 # Important: you must keep the "name" parameter, everything else you can remove

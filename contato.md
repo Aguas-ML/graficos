@@ -2,44 +2,64 @@
 title: Fale
 ---
 
-ÀguasML is headed by an Executive Board. The right person to contact depends on
-the nature of your enquiry. Remember that if you just want to have a chat with
-members of our community, you can freely join our slack organisation: see our
-[forum](../forum) page for more information. Alternatively, for announcements,
-job ads etc. consider sending us an email at waterops@aguas.ml to be added to our mailing list. For everything else, see below.
+Você tem alguma coisa a nos dizer que não pode ser dita nos comentários abertos da Internet? Ou deseja pedir algo relativo à seus dados nesta plataforma?
+
+Então é este o espaço para você!
 
 
-## Specific enquiries
+<br>
 
-Our *coordinators* are our focal points for some of our main activities. Contact
-them in priority if your enquiry relates to one of these topics:
+## Fale com a gente
 
-- *field deployment*: [WaterOps](mailto:waterops@aguas.ml)
-
-- *software development*: [WaterOps](mailto:waterops@aguas.ml)
-
-- *training and capacity building*: [WaterOps](mailto:waterops@aguas.ml)
+Caso queira compartilhar anúncios, convites para editais, etc, considere nos enviar um e-mail para waterops@aguas.ml . Para outras opções, veja abaixo.
 
 
+<br>
 
-## General enquiries
+## Inscrição na lista de emails
 
-For all other enquiries, including questions regarding membership, funding, or
-donations, please send an email to our [generic address](mailto:waterops@aguas.ml) 
-or fill out the form below :
+Poucas vezes por ano nós enviamos algumas mensagens que acreditamos serem fundamentais. Nossas campanhas são exclusivas para questões hídricas ou em Direitos da Natureza.
 
-<form action="https://formspree.io/waterops@aguas.ml" method="POST" class="form" id="contact-form">
-  <div class="row">
-    <div class="col-xs-6">
-      <input type="email" name="_replyto" class="form-control input-lg" placeholder="Email" title="Email">
-    </div>
-    <div class="col-xs-6">
-      <input type="text" name="name" class="form-control input-lg" placeholder="Name" title="Name">
-    </div>
-  </div>
-  <input type="hidden" name="_subject" value="General enquiry from RECON website">
-  <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
-  <input type="text" name="_gotcha" style="display:none">
-  <input type="hidden" name="_next" value="./contact?message=Your message was sent successfully, thanks!" />
-  <button type="submit" class="btn btn-lg btn-primary">Submit</button>
+Caso queira receber nossas campanhas, preencha com o seu melhor email:
+
+
+<script src='https://www.google.com/recaptcha/api.js'></script>
+<form action="https://porto.cultmais.com.br/subscribe" method="POST" accept-charset="utf-8">
+	<label for="name">Nome</label><br/>
+	<input type="text" name="name" id="name"/>
+	<br/>
+	<label for="email">Email</label><br/>
+	<input type="email" name="email" id="email"/><br/><br/>
+<input type="checkbox" name="gdpr" id="gdpr"/>
+<span><strong>Permissão</strong>: Dou meu consentimento para que ÁguasML entre em contato comigo por e-mail usando as informações que forneci neste formulário.</span>
+<br/><br/>
+<span><strong>O que esperar</strong>: Se você deseja retirar seu consentimento e deixar de nos ouvir, basta clicar no link de cancelamento de inscrição na parte inferior de cada e-mail que enviamos ou entrar em contato conosco em waterops@aguas.ml. Valorizamos e respeitamos seus dados pessoais e privacidade. Para ver nossa política de privacidade, visite nosso site. Ao enviar este formulário, você concorda que podemos processar suas informações de acordo com estes termos.</span>
+<br/><br/>
+	<p class="g-recaptcha" data-sitekey="6Lcs8vMgAAAAAIgW0ysutaGNPbATMTYf8ceRXVwE"></p><div style="display:none;">
+	<label for="hp">HP</label><br/>
+	<input type="text" name="hp" id="hp"/>
+	</div>
+	<input type="hidden" name="list" value="D6u763R4rekVV4bi6mY0RXtA"/>
+	<input type="hidden" name="subform" value="yes"/>
+	<input type="submit" name="submit" id="submit"/>
 </form>
+
+
+<br>
+
+## Consultas específicas
+
+Nossos *coordenadores* são nossos pontos focais para algumas de nossas principais atividades.  Priorize-os se sua consulta estiver relacionada a um destes tópicos:
+
+- *implantação digital*: [Carlos Diego](mailto:waterops@aguas.ml)
+
+- *desenvolvimento de software*: [WaterOps](mailto:waterops@aguas.ml)
+
+- *treinamento e capacitação*: [WaterOps](mailto:waterops@aguas.ml)
+
+
+
+## Solicitações gerais
+
+Para todas as outras dúvidas, incluindo questões relacionadas à LGPD, associação, financiamento ou
+doações, envie um e-mail para nosso [endereço genérico](mailto:waterops@aguas.ml)

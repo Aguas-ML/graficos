@@ -9,7 +9,7 @@ Nossos projetos são todos um trabalho de amor e boa vontade para a comunidade h
 
 Adoramos o que fazemos e adoramos compartilhar o que fazemos de graça, mas com o tempo, as despesas operacionais podem ter um grande impacto. 
 
-Dito isso, contamos também com a boa índole de **pessoas e organizações generosas**, que estão dispostas a doar para que possamos manter nossas atividades. Portanto, para ajudar com os custos e o tempo investido, você pode do**colaborar** das seguintes maneiras:
+Dito isso, contamos também com a boa índole de **pessoas e organizações generosas**, que estão dispostas a doar para que possamos manter nossas atividades. Portanto, para ajudar com os custos e o tempo investido, você pode **colaborar** das seguintes maneiras:
 
 * *financiadores*: esta pessoas ou organizações financiam as estruturas digitais e as atividades presenciais
 
@@ -38,6 +38,8 @@ A ÁguasML já recebe muitos recursos e trabalho que nos permitem manter ativida
   
 * Licença grátis no [Google Workspace](https://gmail.com) para serviços básicos de email
 
+* Máquinas com requerimentos específicos são mantidas pela [Cria Corpo](https://criacorpo.com.br)
+
 
 Se você deseja colaborar com nossa platafoma, envie uma mensagem para este [email](mailto:waterops@aguas.ml).
 
@@ -64,5 +66,8 @@ Visite o site da [Baia Hacker Space](https://baiahacker.space) e saiba mais.
 
 
 ### PROAZUL
-<br>
 
+
+
+
+<br>
