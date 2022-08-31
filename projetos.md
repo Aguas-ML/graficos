@@ -75,21 +75,22 @@ aguasml-list:
     img: /img/projects/purple.png
   - name: leak águasml
     desc: Plataforma segura de denúncias
-    github: https://github.com/Aguas-ML
+    github: 
     url: https://leak.aguas.ml/
     website: https://leak.aguas.ml/
     img: /img/projects/orange.png
   - name: livros águasml
     desc: Visualisation and analysis of passenger flows
-    github: https://github.com/Aguas-ML
+    github: 
     url: https://livros.aguas.ml/
     website: https://livros.aguas.ml/
     img: /img/projects/purple.png
 related-list:
   - name: Agenda das Águas
     desc: Agenda de ações locais pelas águas e recursos hídricos.
-    github: https://github.com/Aguas-ML
+    github: 
     url: https://agenda.aguas.ml
+    website: https://agenda.aguas.ml/
     img: /img/projects/green.png
 upcoming-list:
   - name: Porto Rural
@@ -102,17 +103,6 @@ upcoming-list:
 # Ciência holística em ação
 
 Tudo o que podemos compartilhar sobre as ações da Porto Rural, com foco entorno da casa 421 da colônia da Fazenda Capoava, Porto Feliz/SP.
-<br>
-
-##  WaterOps - serviços digitais cibernéticos
-
-A cibernética, aqui, é o que une os “pontos comuns nos sistemas biológicos, mecânicos e sociais” (MEDINA, 2011), em outras palavras tudo aquilo que une a natureza, as tecnologias e as pessoas.
-
-Vivemos um **modelo nômade** de organizações emergentes, formadas de pessoas associadas pelo uso de tecnologias em espaços heterotópicos e comuns, permeáveis ao público e privado na construção de estratégias de sobrevivência. 
-
-{% include list-circles.html items=page.aguasml-list %}
-
-
 
 
 <br>
@@ -133,6 +123,19 @@ Proposições para projetos de âmbito localizado, incentivando que comunidades 
 Estas organizações compõem um conjunto iterativo de modelos de fácil adoção *(frameworks)* capazes de dar suporte às capacidades adaptativas sociobiodiversas de aglomerados, com impacto positivo na diversidade e preservando o possível da disponibilidade genética planetária.
 
 {% include list-circles.html items=page.upcoming-list %}
+
+
+
+
+<br>
+
+##  WaterOps - serviços digitais cibernéticos
+
+A cibernética, aqui, é o que une os “pontos comuns nos sistemas biológicos, mecânicos e sociais” (MEDINA, 2011), em outras palavras tudo aquilo que une a natureza, as tecnologias e as pessoas.
+
+Vivemos um **modelo nômade** de organizações emergentes, formadas de pessoas associadas pelo uso de tecnologias em espaços heterotópicos e comuns, permeáveis ao público e privado na construção de estratégias de sobrevivência. 
+
+{% include list-circles.html items=page.aguasml-list %}
 
 
 
