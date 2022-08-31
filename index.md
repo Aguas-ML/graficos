@@ -25,6 +25,6 @@ Esta plataforma fornece suporte a alternativas de aprendizagem e instrumentos de
 
 Queremos aprender e desenvolver uma visão biocêntrica prática de amor para com as águas e deglutir conceitos complexos e polêmicos em recursos hídricos
 
-Descubra todos os nossos [Projetos](/projetos) e [Recursos](/recursos)
+Descubra todos os nossos [Projetos](https://graficos.aguas.ml/projetos/) e [Recursos](https://graficos.aguas.ml/recursos/)
 
 
