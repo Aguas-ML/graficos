@@ -5,3 +5,19 @@
   background: orange;
 }
 */
+/* tamanho dos títulos */
+.intro-header .page-heading h1 {
+  font-size: 60px;
+}
+
+/* tamanho da fonte do site */
+p {
+  line-height: 1.8;
+}
+body {
+  font-size: 20px;
+}
+/* cor da barra de navegação */
+.navbar-custom {
+  background: #4054B2;
+}

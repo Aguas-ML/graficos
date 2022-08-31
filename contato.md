@@ -1,5 +1,6 @@
 ---
-title: Fale
+title: contato
+subtitle: "Solicitações e dúvidas, fale com a gente"
 ---
 
 Você tem alguma coisa a nos dizer que não pode ser dita nos comentários abertos da Internet? Ou deseja pedir algo relativo à seus dados nesta plataforma?
@@ -11,7 +12,7 @@ Então é este o espaço para você!
 
 ## Fale com a gente
 
-Caso queira compartilhar anúncios, convites para editais, etc, considere nos enviar um e-mail para waterops@aguas.ml . Para outras opções, veja abaixo.
+Caso queira compartilhar anúncios, convites para editais, etc, considere nos enviar um e-mail para [waterops@aguas.ml](mailto:waterops@aguas.ml) . Para outras opções, veja abaixo.
 
 
 <br>
@@ -59,7 +60,13 @@ Nossos *coordenadores* são nossos pontos focais para algumas de nossas principa
 
 
 
+<br>
+
 ## Solicitações gerais
 
 Para todas as outras dúvidas, incluindo questões relacionadas à LGPD, associação, financiamento ou
-doações, envie um e-mail para nosso [endereço genérico](mailto:waterops@aguas.ml)
+doações, envie um e-mail para nosso [**endereço geral**](mailto:waterops@aguas.ml)
+
+
+
+<br>
