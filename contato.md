@@ -1,5 +1,5 @@
 ---
-title: Contact us
+title: Fale
 ---
 
 RECON is headed by an Executive Board. The right person to contact depends on
@@ -14,21 +14,21 @@ job ads etc. consider sending us an email at admin@repidemicsconsortium.org to b
 Our *coordinators* are our focal points for some of our main activities. Contact
 them in priority if your enquiry relates to one of these topics:
 
-- *field deployment*: [Thibaut Jombart](mailto:thibautjombart@gmail.com)
+- *field deployment*: [WaterOps](mailto:waterops@aguas.ml)
 
-- *software development*: [Noam Ross](mailto:noam.ross@gmail.com) or [Thibaut Jombart](mailto:thibautjombart@gmail.com)
+- *software development*: [WaterOps](mailto:waterops@aguas.ml)
 
-- *training and capacity building*: [Janetta Skarp](mailto:janetta.skarp13@imperial.ac.uk)
+- *training and capacity building*: [WaterOps](mailto:waterops@aguas.ml)
 
 
 
 ## General enquiries
 
 For all other enquiries, including questions regarding membership, funding, or
-donations, please send an email to our [generic address](mailto:admin@repidemicsconsortium.org) 
+donations, please send an email to our [generic address](mailto:waterops@aguas.ml) 
 or fill out the form below :
 
-<form action="https://formspree.io/repidemicsconsortium@gmail.com" method="POST" class="form" id="contact-form">
+<form action="https://formspree.io/waterops@aguas.ml" method="POST" class="form" id="contact-form">
   <div class="row">
     <div class="col-xs-6">
       <input type="email" name="_replyto" class="form-control input-lg" placeholder="Email" title="Email">
