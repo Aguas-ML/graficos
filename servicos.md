@@ -18,7 +18,7 @@ lista-digitais:
     desc: Informação essencial sobre as Águas, Bem Comum em Mídia Livre
     github: 
     url: https://brasil.aguas.ml
-    img: /img/projects/blue.png
+    img: /img/logos/aguasml_mundo-verde.png
   - name: Chat ÁguasML
     desc: Operações com chat hídrico.
     github: 
