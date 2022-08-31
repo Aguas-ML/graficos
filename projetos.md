@@ -135,7 +135,10 @@ Com foco entorno da casa 421 da colônia da Fazenda Capoava, Porto Feliz/SP.
 
 A cibernética, aqui, é o que une os “pontos comuns nos sistemas biológicos, mecânicos e sociais” (MEDINA, 2011), em outras palavras tudo aquilo que une a natureza, as tecnologias e as pessoas.
 
-Vivemos um **modelo nômade** de organizações emergentes, formadas de pessoas associadas pelo uso de tecnologias em espaços heterotópicos e comuns, permeáveis ao público e privado na construção de estratégias de sobrevivência. 
+Vivemos um **modelo nômade** de organizações emergentes, formadas de pessoas associadas pelo uso de tecnologias em espaços heterotópicos e comuns, permeáveis ao público e privado na construção de estratégias de sobrevivência.
+
+Interessados em nosso envolvimento, liberdade e privacidade, mantemos os serviços digitais listados a seguir
+
 
 {% include list-circles.html items=page.aguasml-list %}
 
