@@ -21,7 +21,6 @@ navbar-links:
     - Eventos: "eventos"
     - Updates: "blog"
 
-
 # Change all these values or delete the ones you don't want (these appear in the footer).
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
@@ -29,7 +28,7 @@ author:
   email: "waterops@aguas.ml"
   github: Aguas-ML
   facebook: yourname  # eg. daattali
-  twitter: yourname   # eg. daattali
+  twitter: aguasml
 
 # Select which links to show in the footer
 footer-links-active:
@@ -37,7 +36,7 @@ footer-links-active:
   email: true
   rss: false
   facebook: false
-  twitter: false
+  twitter: true
 
 # Select which share links to show in posts
 share-links-active:
