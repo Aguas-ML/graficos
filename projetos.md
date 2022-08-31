@@ -1,7 +1,7 @@
 ---
 title: Projetos
 bigimg: /img/banners/devel.jpg
-recon-list:
+aguasml-list:
   - name: aguas.ml
     desc: base de registros e manifesto da plataforma.
     github: https://github.com/Aguas-MLe
@@ -218,9 +218,11 @@ upcoming-list:
 
 ## Serviços digitais cibernéticos
 
-A cibernética, aqui, é o que une os “pontos comuns nos sistemas biológicos, mecânicos e sociais” (MEDINA, 2011), em outras palavras tudo aquilo que une a natureza, as tecnologias e as pessoas. Um **modelo nômade** de organizações emergentes, formadas de pessoas associadas pelo uso de tecnologias em espaços heterotópicos e comuns, permeáveis ao público e privado na construção de suas estratégias de sobrevivência. 
+A cibernética, aqui, é o que une os “pontos comuns nos sistemas biológicos, mecânicos e sociais” (MEDINA, 2011), em outras palavras tudo aquilo que une a natureza, as tecnologias e as pessoas.
 
-{% include list-circles.html items=page.recon-list %}
+Vivemos um **modelo nômade** de organizações emergentes, formadas de pessoas associadas pelo uso de tecnologias em espaços heterotópicos e comuns, permeáveis ao público e privado na construção de estratégias de sobrevivência. 
+
+{% include list-circles.html items=page.aguasml-list %}
 
 
 

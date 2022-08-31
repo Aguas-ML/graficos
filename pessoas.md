@@ -1,19 +1,19 @@
 ---
-title: People
-subtitle: The humans behind this project
+title: Organizações Cibernéticas
+subtitle: As organizações e humanes na ÁguasML
 default_profile_img: /img/people/anonymous.jpg
 ---
 
-## Executive board
+## Board operativo
 
-These people are currently heading RECON.
+These people are currently heading ÁguasML.
 
 {% include list-circles.html items=site.data.people.executive_board %}
 
-## Members
+## Fazem parte
 
-Members are people actively involved in, and contributing to, RECON's activities. 
-See [this page](../join) if you would like more information on membership.
+Members are people actively involved in, and contributing to, ÁguasML's activities. 
+See [this page](../participe) if you would like more information on membership.
 
 {% include list-circles.html items=site.data.people.members %}
 
