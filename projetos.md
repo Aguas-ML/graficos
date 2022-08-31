@@ -47,9 +47,9 @@ Proposições para projetos de âmbito localizado, incentivando que comunidades 
 
 ## O que nasce entre Pessoas e Natureza
 
-Estas organizações compõem um conjunto iterativo de modelos de fácil adoção *(frameworks)* capazes de dar suporte às capacidades adaptativas sociobiodiversas de aglomerados, com impacto positivo na diversidade e preservando o possível da disponibilidade genética planetária.
+Estas organizações atuam com impacto positivo na diversidade, preservando o possível da disponibilidade genética e social planetária.
 
-Com foco entorno da casa 421 da colônia da Fazenda Capoava, Porto Feliz/SP.
+Nosso escritório rural fica na cidade de Porto Feliz, na casa 421 da colônia da Fazenda Capoava.
 
 {% include list-circles.html items=page.lista-cyorgs %}
 
