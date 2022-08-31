@@ -10,13 +10,14 @@ description: Podemos trabalhar em conjunto, desenvolver nossas capacidades para 
 navbar-links:
   Sobre nós:
     - Ideias: "cyorgs"
-    - Contato: "contato"
+    - Participe: "participe"
     - Pessoas: "pessoas"
   Colabore: "colabore"
-  Participe: "participe"
+  Descubra:
     - Projetos: "projetos"
     - Recursos: "recursos"
-  Serviços: "servicos"
+    - Contato: "contato"
+  Para usar: "servicos"
   Registros:
     - Eventos: "eventos"
     - Updates: "blog"
