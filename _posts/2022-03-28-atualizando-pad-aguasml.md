@@ -1,7 +1,7 @@
 ---
 title: "Atualizando o PAD ÁguasML"
 subtitle: "Updates no Pad Águas"
-bigimg: "https://ciclos.aguas.ml/uploads/imagens-do-pad/print-padaguas.png"
+bigimg: img/print-padaguas.png
 ---
 
 Nosso pad foi atualizado para a sua última versão disponível hoje.
