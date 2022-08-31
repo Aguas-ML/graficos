@@ -36,6 +36,7 @@ Você pode colaborar com as seguintes organizações e atividades que já estar�
 
 ### Movimento Sócio-Ambiental Caminho das Águas (CH2O)
 [CH2O](https://caminhodasaguas.org.br/) trabalha em defesa das águas e dos Direitos da natureza desde 2004.
+
 ### PORTO Rural
 [PORTO Rural](https://portorural.com.br/) trabalha em defesa de Direitos Humanos, do Patrimônio Histórico e dos Direitos da Natureza desde 2016.
 

@@ -9,7 +9,7 @@ description: Podemos trabalhar em conjunto, desenvolver nossas capacidades para 
 # List of links in the navigation bar
 navbar-links:
   Sobre nós:
-    - Fazemos: ""
+    - Cyorgs: "cyorgs"
     - Participe: "participe"
     - Contato: "contato"
     - Code of Conduct: "CODE_OF_CONDUCT"
