@@ -4,8 +4,7 @@
 <img src="/img/logo_aguasml_nice.png" title="ÁguasML" alt="ÁguasML" />
 
 
-#**Seja feliz!**
-## **Águas**, Bem Comum em **M**ídia **L**ivre.
+# **Águas**, Bem Comum em **M**ídia **L**ivre
 
 Nós podemos trabalhar em conjunto, desenvolver nossas capacidades para viver em harmonia com as Águas e a Natureza.
 
