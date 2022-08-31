@@ -21,3 +21,12 @@ body {
 .navbar-custom {
   background: #4054B2;
 }
+/* cor dos títulos */
+.h1, h1 {
+  font-size: 30px;
+  color: #3f16b3;
+}
+.h3, h3 {
+  font-size: 24px;
+  color: green;
+}
