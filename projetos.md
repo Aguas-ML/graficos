@@ -8,12 +8,6 @@ lista-iniciativas:
     url: https://agenda.aguas.ml
     website: https://agenda.aguas.ml/
     img: /img/projects/green.png
-  - name: Baia Hacker Space
-    desc: Laboratório Temporário de Experiências Sensíveis
-    github: baiahacker
-    url: https://baiahacker.space
-    website: https://baiahacker.space
-    img: /img/projects/orange.png
   - name: Conversando com as Águas
     desc: Diálogos pelas águas e Direitos da Natureza
     github: 
@@ -26,6 +20,12 @@ lista-cyorgs:
     github: https://github.com/portorural
     url: https://portorural.com.br
     img: /img/projects/yellow.png
+  - name: Baia Hacker Space
+    desc: Laboratório Temporário de Experiências Sensíveis
+    github: baiahacker
+    url: https://baiahacker.space
+    website: https://baiahacker.space
+    img: /img/projects/orange.png
 ---
 # Ciência holística em ação
 
