@@ -1,13 +1,19 @@
 ---
 title: Projetos
 bigimg: /img/banners/devel.jpg
-lista.iniciativas:
+lista-iniciativas:
   - name: Agenda das Águas
     desc: Agenda de ações locais pelas águas e recursos hídricos.
     github: 
     url: https://agenda.aguas.ml
     website: https://agenda.aguas.ml/
     img: /img/projects/green.png
+  - name: Baia Hacker Space
+    desc: Laboratório Temporário de Experiências Sensíveis
+    github: baiahacker
+    url: https://baiahacker.space
+    website: https://baiahacker.space
+    img: /img/projects/orange.png
   - name: Conversando com as Águas
     desc: Diálogos pelas águas e Direitos da Natureza
     github: 
