@@ -3,11 +3,13 @@ title: Fundação e parcerias
 subtitle: Quem suporta a ÁguasML
 ---
 
-# Caminhos para a cooperação
-
 Nossos projetos são todos um trabalho de amor e boa vontade para a comunidade hídrica internacional. Operar a plataforma Águas Mídia Livre significa **criatividade** e **atenção** para encontrarmos soluções sustentáveis, já que tudo pode custar muito dinheiro.
 
 Adoramos o que fazemos e adoramos compartilhar o que fazemos de graça, mas com o tempo, as despesas operacionais podem ter um grande impacto. 
+
+<br>
+
+# Caminhos para a cooperação
 
 Dito isso, contamos também com a boa índole de **pessoas e organizações generosas**, que estão dispostas a doar para que possamos manter nossas atividades. Portanto, para ajudar com os custos e o tempo investido, você pode **colaborar** das seguintes maneiras:
 
