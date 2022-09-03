@@ -1,9 +1,9 @@
 ---
-title: Fundação e parcerias
+title: fundação e parcerias
 subtitle: Quem suporta a ÁguasML
 ---
 
-Nossos projetos são todos um trabalho de amor e boa vontade para a comunidade hídrica internacional. Operar a plataforma Águas Mídia Livre significa **criatividade** e **atenção** para encontrarmos soluções sustentáveis, já que tudo pode custar muito dinheiro.
+Nossos projetos são todos um trabalho de amor e boa vontade na comunidade hídrica internacional. Operar a plataforma Águas Mídia Livre significa **criatividade** e **atenção** para encontrarmos soluções sustentáveis, já que tudo pode custar muito dinheiro.
 
 Adoramos o que fazemos e adoramos compartilhar o que fazemos de graça, mas com o tempo, as despesas operacionais podem ter um grande impacto. 
 
