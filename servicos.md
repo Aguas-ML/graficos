@@ -30,7 +30,7 @@ lista-digitais:
     github: 
     url: https://nas.aguas.ml/
     website: https://nas.aguas.ml/
-    img: /img/projects/orange.png
+    img: https://raw.githubusercontent.com/Aguas-ML/repo/c7b889091bba5bf1404feb0a20d438df2d37907d/img/icons/precolors/icone_pty-precolors-13.svg
   - name: Ciclos Logs
     desc: Rotinas da plataforma ÁguasML.
     github: https://github.com/portorural/ciclos.aguas.ml
@@ -54,7 +54,7 @@ lista-digitais:
     github: 
     url: https://wiki.aguas.ml/
     website: https://wiki.aguas.ml/
-    img: /img/projects/blue.png
+    img: https://raw.githubusercontent.com/Aguas-ML/repo/c7b889091bba5bf1404feb0a20d438df2d37907d/img/icons/branblack/icones_hidricos-branblack-08.svg
   - name: R águaLab
     desc: Uma instalação compartilhada para testes e estudos em R
     github: 
