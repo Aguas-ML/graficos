@@ -13,7 +13,7 @@ lista-digitais:
     github: https://github.com/caminhodasaguas/etherpad-lite
     url: https://pad.aguas.ml
     website: https://pad.aguas.ml
-    img: /img/projects/blue.png
+    img: https://raw.githubusercontent.com/Aguas-ML/repo/c7b889091bba5bf1404feb0a20d438df2d37907d/img/icons/branblack/icones_hidricos-branblack-07.svg
   - name: Brasil ÁguasML
     desc: Informação essencial sobre as Águas, Bem Comum em Mídia Livre
     github: 
