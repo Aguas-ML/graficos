@@ -7,7 +7,7 @@ lista-digitais:
     github: https://github.com/Aguas-MLe
     url: https://aguas.ml
     website: https://aguas.ml
-    img: /img/logos/aguasml_planeta-gota.png
+    img: https://raw.githubusercontent.com/Aguas-ML/repo/c7b889091bba5bf1404feb0a20d438df2d37907d/img/icons/branblue/icone_hidricos-branblue-14.svg
   - name: pad águasml
     desc: Textos colaborativos com privacidade
     github: https://github.com/caminhodasaguas/etherpad-lite
@@ -24,7 +24,7 @@ lista-digitais:
     github: 
     url: https://chat.aguas.ml
     website: https://chat.aguas.ml
-    img: /img/logos/aguasml_redes.png
+    img: https://raw.githubusercontent.com/Aguas-ML/repo/c7b889091bba5bf1404feb0a20d438df2d37907d/img/icons/brancolors/icones_hidricos-brancolors-20.svg
   - name: redutor de links
     desc: Redutor de links com estatísticas e personalização
     github: 
