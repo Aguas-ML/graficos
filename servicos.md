@@ -36,7 +36,7 @@ lista-digitais:
     github: https://github.com/portorural/ciclos.aguas.ml
     url: https://ciclos.aguas.ml
     website: https://ciclos.aguas.ml
-    img: /img/projects/yellow.png
+    img: https://raw.githubusercontent.com/Aguas-ML/repo/c7b889091bba5bf1404feb0a20d438df2d37907d/img/icons/precolors/icone_pty-precolors-03.svg
   - name: cursos grátis
     desc: Plataforma EAD Águas ML.
     github: 
@@ -66,7 +66,7 @@ lista-digitais:
     github: 
     url: https://guias.aguas.ml
     website: https://guias.aguas.ml
-    img: /img/logos/aguasml_planeta-gota.png
+    img: https://raw.githubusercontent.com/Aguas-ML/repo/c7b889091bba5bf1404feb0a20d438df2d37907d/img/icons/pretrans/icone_hidricos-pretrans-flora_folhagem.svg
   - name: journal águasml
     desc: Teste pré-lançamento de uma Revista Digital
     github: 
@@ -78,7 +78,7 @@ lista-digitais:
     github: 
     url: https://leak.aguas.ml/
     website: https://leak.aguas.ml/
-    img: /img/projects/orange.png
+    img: https://raw.githubusercontent.com/Aguas-ML/repo/c7b889091bba5bf1404feb0a20d438df2d37907d/img/icons/brancolors/icones_hidricos-brancolors-06.svg
   - name: livros águasml
     desc: Visualisation and analysis of passenger flows
     github: 
