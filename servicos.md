@@ -1,6 +1,6 @@
 ---
 title: serviços digitais
-bigimg: /img/banners/devel.jpg
+bigimg: /img/banners/janela_aguasml.jpg
 lista-digitais:
   - name: aguas.ml
     desc: base de registros e manifesto da plataforma.
