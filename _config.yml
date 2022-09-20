@@ -12,15 +12,15 @@ navbar-links:
     - Ideias: "cyorgs"
     - Participe: "participe"
     - Pessoas: "pessoas"
-  Colabore: "colabore"
+  Para usar: "servicos"
   Descubra:
     - Projetos: "projetos"
     - Recursos: "recursos"
     - Contato: "contato"
-  Para usar: "servicos"
   Registros:
     - Eventos: "eventos"
     - Updates: "blog"
+  Colabore: "colabore"
 
 # Change all these values or delete the ones you don't want (these appear in the footer).
 # Important: you must keep the "name" parameter, everything else you can remove
