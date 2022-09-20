@@ -4,14 +4,11 @@ bigimg: /img/banners/janela_aguasml.jpg
 subtitle: Bem Comum em Mídia Livre
 ---
 
-<img src="/img/logo_aguasml_nice.png" title="ÁguasML" alt="ÁguasML" />
-
-
-## **Águas**, Bem Comum em **M**ídia **L**ivre
-
 Nós podemos trabalhar em conjunto, desenvolver nossas capacidades para viver em harmonia com as Águas e a Natureza.
 
 Colaboramos com o desenvolvimento de tecnologias livres e segurança digital em organizações, movimentos e grupos sociais no Brasil e América Latina, a fim de gerar processos de soberania e autonomia tecnológica.
+
+<img src="/img/logo_aguasml_nice.png" title="ÁguasML" alt="ÁguasML" />
 
 Esta plataforma faz conexões e distribui conteúdo gratuito para concretizar essa visão. Aqui você vai encontrar uma biblioteca de recursos vivos, pessoas, seres e organizações que trabalham por um mundo hídrico saudável.
 
