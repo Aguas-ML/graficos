@@ -1,5 +1,5 @@
 ---
-title: Recursos
+title: recursos
 bigimg: /img/banners/janela_aguasml.jpg
 ---
 

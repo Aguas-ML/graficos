@@ -1,5 +1,5 @@
 ---
-title: Projetos
+title: projetos
 bigimg: /img/banners/janela_aguasml.jpg
 lista-iniciativas:
   - name: Agenda das Águas

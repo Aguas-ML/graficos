@@ -1,5 +1,5 @@
 ---
-title: Eventos
+title: eventos
 bigimg: /img/banners/janela_aguasml.jpg
 ---
 

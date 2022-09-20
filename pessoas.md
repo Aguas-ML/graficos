@@ -1,5 +1,5 @@
 ---
-title: Organizações Cibernéticas
+title: equipe operacional
 bigimg: /img/banners/janela_aguasml.jpg
 subtitle: As organizações e humanes na ÁguasML
 default_profile_img: /img/people/anonymous.jpg
