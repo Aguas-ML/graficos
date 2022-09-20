@@ -27,10 +27,9 @@ lista-cyorgs:
     website: https://baiahacker.space
     img: /img/projects/orange.png
 ---
-# Ciência holística em ação
+## Ciência holística em ação
 
 Tudo o que podemos compartilhar sobre o conjunto de ações da ÁguasML
-
 
 <br>
 
@@ -39,8 +38,6 @@ Tudo o que podemos compartilhar sobre o conjunto de ações da ÁguasML
 Proposições para projetos de âmbito localizado, incentivando que comunidades assumam compromissos com as águas e todos os outros Direitos da Natureza
 
 {% include list-circles.html items=page.lista-iniciativas %}
-
-
 
 
 <br>
