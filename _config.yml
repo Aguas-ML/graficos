@@ -13,14 +13,14 @@ navbar-links:
     - Participe: "participe"
     - Pessoas: "pessoas"
   Para usar: "servicos"
-  Registros:
-    - Eventos: "eventos"
-    - Updates: "blog"
   Descubra:
+    - Colabore: "colabore"
     - Projetos: "projetos"
     - Recursos: "recursos"
     - Contato: "contato"
-  Colabore: "colabore"
+    Registros:
+    - Eventos: "eventos"
+    - Updates: "blog"
 
 # Change all these values or delete the ones you don't want (these appear in the footer).
 # Important: you must keep the "name" parameter, everything else you can remove
