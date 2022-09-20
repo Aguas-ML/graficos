@@ -1,6 +1,6 @@
 ---
 title: Projetos
-bigimg: /img/banners/devel.jpg
+bigimg: /img/banners/janela_aguasml.jpg
 lista-iniciativas:
   - name: Agenda das Águas
     desc: Agenda de ações locais pelas águas e recursos hídricos.

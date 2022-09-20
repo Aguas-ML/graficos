@@ -1,5 +1,6 @@
 ---
 title: contato
+bigimg: /img/banners/janela_aguasml.jpg
 subtitle: "Solicitações e dúvidas, fale com a gente"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Recursos
-bigimg: /img/banners/mixed-deepblue.png
+bigimg: /img/banners/janela_aguasml.jpg
 ---
 
 

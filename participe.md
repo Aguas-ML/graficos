@@ -1,5 +1,6 @@
 ---
 title: nossa comunidade
+bigimg: /img/banners/janela_aguasml.jpg
 ---
 
 ## Prioridade é do Código Aberto

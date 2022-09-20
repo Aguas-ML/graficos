@@ -1,5 +1,6 @@
 ---
 title: As organizações Cibernéticas
+bigimg: /img/banners/janela_aguasml.jpg
 ---
 
 

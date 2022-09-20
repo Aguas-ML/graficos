@@ -1,5 +1,6 @@
 ---
 title: fundação e parcerias
+bigimg: /img/banners/janela_aguasml.jpg
 subtitle: Quem suporta a ÁguasML
 ---
 
