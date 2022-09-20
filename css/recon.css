@@ -23,8 +23,8 @@ body {
 }
 /* cor dos títulos */
 .h1, h1 {
-  font-size: 30px;
-  color: #3f16b3;
+  font-size: 2rem;
+  color: #e7e11d;
 }
 .h3, h3 {
   font-size: 24px;
