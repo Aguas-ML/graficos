@@ -1,7 +1,7 @@
 ---
 title: Águas.ML
 bigimg: /img/banners/janela_aguasml.jpg
-subtitle: Bem Comum em **M**ídia **L**ivre
+subtitle: Bem Comum em Mídia Livre
 ---
 
 <img src="/img/logo_aguasml_nice.png" title="ÁguasML" alt="ÁguasML" />
