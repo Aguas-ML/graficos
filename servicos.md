@@ -93,11 +93,11 @@ lista-digitais:
     img: https://raw.githubusercontent.com/Aguas-ML/repo/c7b889091bba5bf1404feb0a20d438df2d37907d/img/icons/precolors/icone_pty-precolors-18.svg
 ---
 
-##  WaterOps - serviços digitais cibernéticos
+##  serviços digitais cibernéticos WaterOps
 
-Vivemos um **modelo nômade** de organizações emergentes, formadas de pessoas e organizações associadas pelo uso de tecnologias em **espaços heterotópicos** e comuns, permeáveis ao público e privado na construção de estratégias de sobrevivência.
+Vivemos um **modelo nômade** de organizações emergentes, formadas por pessoas associadas pelo uso de tecnologias em **espaços heterotópicos** e comuns, permeáveis ao público e privado na construção de estratégias de sobrevivência.
 
-Interessados em nossos movimentos, envolvimentos, liberdade e privacidade, mantemos os serviços digitais listados a seguir
+Interessados em nossos movimentos, envolvimentos, liberdade e privacidade, mantemos os **serviços digitais** listados a seguir
 
 
 {% include list-circles.html items=page.lista-digitais %}
