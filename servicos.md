@@ -93,15 +93,6 @@ lista-digitais:
     img: https://raw.githubusercontent.com/Aguas-ML/repo/c7b889091bba5bf1404feb0a20d438df2d37907d/img/icons/precolors/icone_pty-precolors-18.svg
 ---
 
-A cibernética, aqui, é o que une os “pontos comuns nos sistemas biológicos, mecânicos e sociais” (MEDINA, 2011), em outras palavras **tudo aquilo que une** a natureza, as tecnologias e as pessoas.
-
-Nossos serviços digitais são ações que compõem um conjunto de ferramentas capazes de dar suporte às nossas capacidades adaptativas cibernéticas, preservando o possível da liberdade e privacidade da pessoa humana e seus grupos.
-
-Os serviços digitais da plataforma ÁguasML são **gratuitos**, de **código aberto**, **seguros** e quase sempre de livre acesso, como **foco irrestrito na sobrevivência das espécies**.
-
-
-<br>
-
 ##  WaterOps - serviços digitais cibernéticos
 
 Vivemos um **modelo nômade** de organizações emergentes, formadas de pessoas e organizações associadas pelo uso de tecnologias em **espaços heterotópicos** e comuns, permeáveis ao público e privado na construção de estratégias de sobrevivência.
