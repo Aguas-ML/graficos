@@ -18,7 +18,7 @@ lista-digitais:
     desc: Informação essencial sobre as Águas, Bem Comum em Mídia Livre
     github: 
     url: https://brasil.aguas.ml
-    img: /img/logos/aguasml_mundo-verde.png
+    img: https://raw.githubusercontent.com/Aguas-ML/repo/c7b889091bba5bf1404feb0a20d438df2d37907d/img/icons/precolors/icone_pty-precolors-20.svg
   - name: Chat ÁguasML
     desc: Operações com chat hídrico.
     github: 
@@ -31,6 +31,12 @@ lista-digitais:
     url: https://nas.aguas.ml/
     website: https://nas.aguas.ml/
     img: https://raw.githubusercontent.com/Aguas-ML/repo/c7b889091bba5bf1404feb0a20d438df2d37907d/img/icons/precolors/icone_pty-precolors-13.svg
+  - name: redutor de links 2
+    desc: Redutor de links com QRCode, estatísticas e personalização
+    github: 
+    url: https://vai.aguas.ml/
+    website: https://vai.aguas.ml/
+    img: https://raw.githubusercontent.com/Aguas-ML/repo/c7b889091bba5bf1404feb0a20d438df2d37907d/img/icons/precolors/icone_pty-precolors-25.svg
   - name: Ciclos Logs
     desc: Rotinas da plataforma ÁguasML.
     github: https://github.com/portorural/ciclos.aguas.ml
@@ -42,13 +48,13 @@ lista-digitais:
     github: 
     url: https://cursos.aguas.ml
     website: https://cursos.aguas.ml
-    img: /img/projects/orange.png
+    img: https://raw.githubusercontent.com/Aguas-ML/repo/c7b889091bba5bf1404feb0a20d438df2d37907d/img/icons/precolors/icone_pty-precolors-05.svg
   - name: dados águasml
     desc: Compartilhando informações
     github: 
     url: https://dados.aguas.ml
     website: https://permacultura.download
-    img: /img/projects/purple.png
+    img: https://raw.githubusercontent.com/Aguas-ML/repo/c7b889091bba5bf1404feb0a20d438df2d37907d/img/icons/precolors/icone_pty-precolors-08.svg
   - name: wiki águasml
     desc: Wiki clássica das águas no Brasil
     github: 
@@ -60,7 +66,7 @@ lista-digitais:
     github: 
     url: https://feliz.culturaporto.org.br
     website: https://feliz.culturaporto.org.br
-    img: /img/projects/orange.png
+    img: https://raw.githubusercontent.com/Aguas-ML/repo/c7b889091bba5bf1404feb0a20d438df2d37907d/img/icons/precolors/icone_pty-precolors-15.svg
   - name: guias waterops
     desc: Guias técnicos da equipe WaterOps
     github: 
@@ -72,7 +78,7 @@ lista-digitais:
     github: 
     url: https://journal.aguas.ml/
     website: https://journal.aguas.ml/
-    img: /img/projects/purple.png
+    img: https://raw.githubusercontent.com/Aguas-ML/repo/c7b889091bba5bf1404feb0a20d438df2d37907d/img/icons/precolors/icone_pty-precolors-11.svg
   - name: leak águasml
     desc: Plataforma segura de denúncias
     github: 
@@ -84,24 +90,23 @@ lista-digitais:
     github: 
     url: https://livros.aguas.ml/
     website: https://livros.aguas.ml/
-    img: /img/projects/purple.png
+    img: https://raw.githubusercontent.com/Aguas-ML/repo/c7b889091bba5bf1404feb0a20d438df2d37907d/img/icons/precolors/icone_pty-precolors-18.svg
 ---
 
-Nossos serviços digitais são ações que compõem um conjunto de ferramentas capazes de dar suporte às nossas capacidades adaptativas **cibernáticas**, preservando o possível da liberdade e privacidade da pessoa humana.
+A cibernética, aqui, é o que une os “pontos comuns nos sistemas biológicos, mecânicos e sociais” (MEDINA, 2011), em outras palavras **tudo aquilo que une** a natureza, as tecnologias e as pessoas.
 
-A cibernética, aqui, é o que une os “pontos comuns nos sistemas biológicos, mecânicos e sociais” (MEDINA, 2011), em outras palavras tudo aquilo que une a natureza, as tecnologias e as pessoas.
+Nossos serviços digitais são ações que compõem um conjunto de ferramentas capazes de dar suporte às nossas capacidades adaptativas cibernéticas, preservando o possível da liberdade e privacidade da pessoa humana e seus grupos.
 
-
-Os serviços digitais da plataforma ÁguasML são **gratuitos**, de **código aberto**, **seguros** e quase sempre de **livre** acesso.
+Os serviços digitais da plataforma ÁguasML são **gratuitos**, de **código aberto**, **seguros** e quase sempre de livre acesso, como **foco irrestrito na sobrevivência das espécies**.
 
 
 <br>
 
 ##  WaterOps - serviços digitais cibernéticos
 
-Vivemos um **modelo nômade** de organizações emergentes, formadas de pessoas associadas pelo uso de tecnologias em espaços heterotópicos e comuns, permeáveis ao público e privado na construção de estratégias de sobrevivência.
+Vivemos um **modelo nômade** de organizações emergentes, formadas de pessoas e organizações associadas pelo uso de tecnologias em **espaços heterotópicos** e comuns, permeáveis ao público e privado na construção de estratégias de sobrevivência.
 
-Interessados em nosso envolvimento, liberdade e privacidade, mantemos os serviços digitais listados a seguir
+Interessados em nossos movimentos, envolvimentos, liberdade e privacidade, mantemos os serviços digitais listados a seguir
 
 
 {% include list-circles.html items=page.lista-digitais %}
