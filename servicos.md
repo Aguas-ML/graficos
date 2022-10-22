@@ -24,7 +24,7 @@ lista-digitais:
     github: 
     url: https://chat.aguas.ml
     website: https://chat.aguas.ml
-    img: https://raw.githubusercontent.com/Aguas-ML/repo/c7b889091bba5bf1404feb0a20d438df2d37907d/img/icons/brancolors/icones_hidricos-brancolors-22.svg
+    img: https://raw.githubusercontent.com/Aguas-ML/repo/c7b889091bba5bf1404feb0a20d438df2d37907d/img/icons/brancolors/icones_hidricos-brancolors-12.svg
   - name: redutor de links
     desc: Redutor de links com estatísticas e personalização
     github: 
