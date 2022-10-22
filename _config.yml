@@ -8,19 +8,11 @@ description: Podemos trabalhar em conjunto, desenvolver nossas capacidades para 
 
 # List of links in the navigation bar
 navbar-links:
-  Sobre nós:
-    - Ideias: "cyorgs"
-    - Participe: "participe"
-    - Pessoas: "pessoas"
-  Para usar: "servicos"
-  Descubra:
-    - Colabore: "colabore"
-    - Projetos: "projetos"
-    - Recursos: "recursos"
-    - Contato: "contato"
-    Registros:
-    - Eventos: "eventos"
-    - Updates: "blog"
+  Ideias: "cyorgs"
+  USE: "servicos"
+  Projetos: "projetos"
+  Updates: "blog"
+  Contato: "contato"
 
 # Change all these values or delete the ones you don't want (these appear in the footer).
 # Important: you must keep the "name" parameter, everything else you can remove
