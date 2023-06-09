@@ -82,14 +82,14 @@ lista-digitais:
   - name: leak águasml
     desc: Plataforma segura de denúncias
     github: 
-    url: https://leak.aguas.bio.br/
-    website: https://leak.aguas.bio.br/
+    url: https://leaks.aguas.bio.br/
+    website: https://leaks.aguas.bio.br/
     img: https://raw.githubusercontent.com/Aguas-ML/repo/c7b889091bba5bf1404feb0a20d438df2d37907d/img/icons/brancolors/icones_hidricos-brancolors-06.svg
   - name: livros águasml
     desc: Visualisation and analysis of passenger flows
     github: 
-    url: https://livros.aguas.cc/
-    website: https://livros.aguas.cc/
+    url: https://books.aguas.cc
+    website: https://books.aguas.cc/
     img: https://raw.githubusercontent.com/Aguas-ML/repo/c7b889091bba5bf1404feb0a20d438df2d37907d/img/icons/precolors/icone_pty-precolors-18.svg
 ---
 
