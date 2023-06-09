@@ -5,8 +5,8 @@ lista-iniciativas:
   - name: Agenda das Águas
     desc: Agenda de ações locais pelas águas e recursos hídricos.
     github: 
-    url: https://agenda.aguas.ml
-    website: https://agenda.aguas.ml/
+    url: https://agenda.aguas.bio.br
+    website: https://agenda.aguas.bio.br/
     img: /img/projects/green.png
   - name: Conversando com as Águas
     desc: Diálogos pelas águas e Direitos da Natureza
