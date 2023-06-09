@@ -2,9 +2,9 @@
 title: serviços digitais
 bigimg: /img/banners/janela_aguasml.jpg
 lista-digitais:
-  - name: aguas.bio.br
+  - name: Git aguasml
     desc: base de registros e manifesto da plataforma.
-    github: https://github.com/Aguas-MLe
+    github: https://github.com/Aguas-ML
     url: https://aguas.bio.br
     website: https://aguas.bio.br
     img: https://raw.githubusercontent.com/Aguas-ML/repo/c7b889091bba5bf1404feb0a20d438df2d37907d/img/icons/branblue/icone_hidricos-branblue-14.svg
@@ -14,7 +14,7 @@ lista-digitais:
     url: https://pad.aguas.cc
     website: https://pad.aguas.cc
     img: https://raw.githubusercontent.com/Aguas-ML/repo/c7b889091bba5bf1404feb0a20d438df2d37907d/img/icons/branblack/icones_hidricos-branblack-07.svg
-  - name: Brasil ÁguasML
+  - name: Site ÁguasML
     desc: Informação essencial sobre as Águas, Bem Comum em Mídia Livre
     github: 
     url: https://aguas.bio.br
